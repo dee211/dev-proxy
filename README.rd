@@ -4,4 +4,4 @@ git clone
 3. Запскаем uwsgi server ./start_uwsgi_server.sh
 4 ./celery_stop.sh останавливает воркеры celery
 
-Можно было сделать локальный virtualenv, но не успел.
+Так же можно было сделать локальный virtualenv
